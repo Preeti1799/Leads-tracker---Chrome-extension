@@ -42,5 +42,23 @@ A simple yet powerful Chrome Extension to \*\*save and manage leads (URLs)\*\* d
 
 &nbsp;  git clone https://github.com/Preeti1799/Leads-tracker---Chrome-extension.git
 
+\## Download Extension
+
+You can download the latest build of the Leads Tracker extension here:
+
+\[Download LEADS-TRACKER.crx](./LEADS-TRACKER.crx)
+
+
+
+\*\*Installation:\*\*  
+
+1\. Download the `.crx` file above.  
+
+2\. Open `chrome://extensions/` in Chrome.  
+
+3\. Enable \*\*Developer Mode\*\*.  
+
+4\. Drag and drop the `.crx` file to install.
+
 
 
